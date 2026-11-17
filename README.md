@@ -17,14 +17,16 @@ This project focuses on analyzing Amazon sales data using Microsoft Power BI. An
 
 ## Dashboard Preview
 
-### Page 1 – Sales Overview
-Amazon sales performance and key business metrics.
+## Dashboard Preview
 
-### Page 2 – Sales Analysis
-Detailed analysis of sales trends and performance.
+### Page 1
+![Page 1](Amazon-Page-1.png)
 
-### Page 3 – Business Insights
-Visual representation of important sales insights.
+### Page 2
+![Page 2](Amazon-Page-2.png)
+
+### Page 3
+![Page 3](Amazon-Page-3.png)
 
 ## Key Skills Demonstrated
 - Power BI Dashboard Development
