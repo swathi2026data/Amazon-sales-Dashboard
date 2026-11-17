@@ -19,15 +19,16 @@ This project focuses on analyzing Amazon sales data using Microsoft Power BI. An
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### Page 1
-![Page 1](amazon-Page-1.png)
+![Amazon Page 1](amazon%20page%201.png)
 
 ### Page 2
-![Page 2](amazon-Page-2.png)
+![Amazon Page 2](amazon%20page%202.png)
 
 ### Page 3
-![Page 3](amazon-Page-3.png)
-
+![Amazon Page 3](amazon%20page%203.png)
 ## Key Skills Demonstrated
 - Power BI Dashboard Development
 - Data Analysis
